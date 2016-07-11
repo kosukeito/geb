@@ -2,8 +2,8 @@
 //driver = "chrome"
 
 //reports setting
-reportsDir = "target/geb-reports"
-reportOnTestFailureOnly = false
+//reportsDir = "target/geb-reports"
+//reportOnTestFailureOnly = false
 
 
 //chrome - http://chromedriver.storage.googleapis.com/index.html
